@@ -1,6 +1,6 @@
 elif data == "use_current":#!/usr/bin/env python3
 """
-AUTONICK S
+AUTORenameBot
 Telegram-бот для автоматической смены ника 
 
 Установка:
