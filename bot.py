@@ -1,7 +1,7 @@
 elif data == "use_current":#!/usr/bin/env python3
 """
-GENTOOO AUTONICK SERVICE BOT
-Telegram-бот для автоматической смены ника с пресетами и кастомными вариантами
+AUTONICK S
+Telegram-бот для автоматической смены ника 
 
 Установка:
 pip install telethon
